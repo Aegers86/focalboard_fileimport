@@ -22,7 +22,7 @@ import (
 const (
 	archiveVersion    = 2
 	legacyFileBegin   = "{\"version\":1"
-	importMaxFileSize = 1024 * 1024 * 70
+	importMaxFileSize = 1024 * 1024 * 750
 )
 
 var (
